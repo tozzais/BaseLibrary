@@ -1,0 +1,2 @@
+include ':app', ':baselibrary'
+rootProject.name='基础库的封装'
